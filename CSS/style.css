@@ -471,7 +471,9 @@ p {
   .s2 {
     display: none;
   }
-
+  .obj img{
+    display: none;
+  }
   .s3 {
     display: none;
   }
